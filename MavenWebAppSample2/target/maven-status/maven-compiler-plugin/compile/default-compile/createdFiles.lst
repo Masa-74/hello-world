@@ -1,0 +1,6 @@
+com\websystiwue\springmv\controller\HelloWorldRestController.class
+com\websystiwue\springmv\db\GetHello.class
+com\websystiwue\springmv\domain\Message.class
+com\websystiwue\springmv\db\JDBCConnection.class
+com\websystiwue\springmv\configuration\HelloWorldConfiguration.class
+com\websystiwue\springmv\configuration\HelloWorldInitializer.class
